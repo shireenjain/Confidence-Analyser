@@ -87,7 +87,7 @@ if False:
 #################################
 
 # class_name = input("Enter Class Name: ").lower()
-class_name = "TEST4"
+class_name = "TEST5"
 
 cap = cv2.VideoCapture(1)
 # cap = cv2.VideoCapture(askpath())
